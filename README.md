@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Resines</h1>
 <h3 align="center">A passionate frontend developer based in Madrid, Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorresines&label=Profile%20views&color=0e75b6&style=flat" alt="victorresines" /> </p>
-
-<p align="left"> <a href="https://twitter.com/victorresines" target="blank"><img src="https://img.shields.io/twitter/follow/victorresines?logo=twitter&style=for-the-badge" alt="victorresines" /></a> </p>
-
 - 🌱 I’m currently learning **React,Tailwind**
 
 - 👨‍💻 All of my projects are available at [www.victorresines.com](www.victorresines.com)
