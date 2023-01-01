@@ -5,12 +5,15 @@
 
 - 👨‍💻 All of my projects are available at [www.victorresines.com](www.victorresines.com)
 
+- 📝 I regularly write articles on [blog.victorresines.com](blog.victorresines.com)
+
 - 📫 How to reach me **hola@victorresines.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/victorresines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorresines" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victorresines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorresines" height="30" width="40" /></a>
+<a href="https://hashnode.com/@victorresines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@victorresines" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
