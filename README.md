@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React,Tailwind**
 
-- 👨‍💻 All of my projects are available at [www.victorresines.com](www.victorresines.com)
+- 👨‍💻 All of my projects are available at [www.victorresines.com](https://www.victorresines.com)
 
-- 📝 I regularly write articles on [blog.victorresines.com](blog.victorresines.com)
+- 📝 I regularly write articles on [blog.victorresines.com](https://blog.victorresines.com)
 
 - 📫 How to reach me **hola@victorresines.com**
 
