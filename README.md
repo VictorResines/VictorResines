@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victor Resines</h1>
-<h3 align="center">A passionate frontend developer based in Madrid, Spain</h3>
+<h1 align="left">Hi 👋, I'm Victor Resines</h1>
+<h3 align="left">A passionate frontend developer based in Madrid, Spain</h3>
 
 - 🌱 I’m currently learning **React,Tailwind**
 
