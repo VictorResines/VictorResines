@@ -92,7 +92,7 @@
 </p>
 <h4 align="left">💼 Portfolio</h4>
 <p align="left">
-  <a href="https://www.linkedin.com/in/victorresines/">
+  <a href="https://www.victorresines.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank">
   </a>
 </p>
