@@ -78,7 +78,7 @@
 
 <hr>
 <h3 align="left">LET'S CONNECT</h3>
-<h4 align="left">🔌 Social Networks</h4>
+<h3 align="left">🔌 Social Networks</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/victorresines/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="blank">
   </a>
 </p>
-<h4 align="left">💼 Portfolio</h4>
+<h3 align="left">💼 Portfolio</h3>
 <p align="left">
   <a href="https://www.victorresines.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank">
