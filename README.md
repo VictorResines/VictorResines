@@ -88,13 +88,16 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
   
   <hr>
 <h3 align="left">STATS</h3>
-  
+
   <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorResines&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorResines&theme=radical&card_width=450em)]"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorResines&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
+ <p align="left">
+  Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>
+ </p>
 </p>
 
 <hr>
