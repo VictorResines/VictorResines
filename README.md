@@ -7,9 +7,9 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
 
 <h3 align="left">ABOUT ME</h3>
 
-- 👨‍💻 All of my projects are available at **[www.victorresines.com](https://www.victorresines.com)**
+- 👨‍💻 All of my projects are available at **<a href="https://www.victorresines.com" target="_blank">victorresines.com</a>**
 
-- 📝 Sometimes I write articles on **[blog.victorresines.com](https://blog.victorresines.com)**
+- 📝 Sometimes I write articles on **<a href="https://blog.victorresines.com" target="_blank">blog.victorresines.com</a>**
 
 - 📫 Send me a message to **hola@victorresines.com**
 
