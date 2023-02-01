@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Victor Resines</h1>
 <h3 align="center">A passionate frontend developer based in Madrid, Spain</h3>
-
+<!---
+Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linux.
+-->
 <hr>
 
 <h3 align="left">ABOUT ME</h3>
 
-- 👨‍💻 All of my projects are available at [www.victorresines.com](https://www.victorresines.com)
+- 👨‍💻 All of my projects are available at **[www.victorresines.com](https://www.victorresines.com)**
 
-- 📝 I regularly write articles on [blog.victorresines.com](https://blog.victorresines.com)
+- 📝 Sometimes I write articles on **[blog.victorresines.com](https://blog.victorresines.com)**
 
-- 📫 How to reach me **hola@victorresines.com**
+- 📫 Send me a message to **hola@victorresines.com**
 
 <hr>
 <h3 align="left">SKILLS</h3>
@@ -21,14 +23,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!---
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+-->
 </p>
 
 <h4>Libraries, Frameworks and Preprocessors</h4>
 
 <p>
+  <!---
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+-->
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 
