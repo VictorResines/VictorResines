@@ -43,6 +43,10 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+ 
+  
  </p>
 
 <!---
@@ -69,8 +73,6 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
  </p>
 
-
-
   <h3 align="left">⏰ Productivity tools:</h3>
   <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
@@ -81,6 +83,19 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
  </p>
 
+
+
+  
+  <hr>
+<h3 align="left">STATS</h3>
+  
+  <table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorResines&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorResines&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
+</p>
 
 <hr>
 <h3 align="left">LET'S CONNECT</h3>
@@ -101,6 +116,4 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
   <a href="https://www.victorresines.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank">
   </a>
-</p>
-
 
