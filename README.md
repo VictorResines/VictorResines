@@ -85,7 +85,7 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
 
 
 
-  
+  <!---
   <hr>
 <h3 align="left">STATS</h3>
 
@@ -99,7 +99,7 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
   Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>
  </p>
 </p>
-
+  -->
 <hr>
 <h3 align="left">LET'S CONNECT</h3>
 <h3 align="left">🔌 Social Networks</h3>
