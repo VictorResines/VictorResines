@@ -9,7 +9,9 @@ Agregar: Typescript, React, Tailwind, Bootstrap, Jquery. Node, Express, DB. Linu
 
 - 👨‍💻 All of my projects are available at **<a href="https://www.victorresines.com" target="_blank">victorresines.com</a>**
 
+<!---
 - 📝 Sometimes I write articles on **<a href="https://blog.victorresines.com" target="_blank">blog.victorresines.com</a>**
+-->
 
 - 📫 Send me a message to **hola@victorresines.com**
 
